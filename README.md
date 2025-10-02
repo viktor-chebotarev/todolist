@@ -14,7 +14,7 @@
 
 <div align="center">
 
-![Todo List Screenshot](.github/images/screenshot.png)
+![Todo List Screenshot](assets/images/screenshot.png)
 
 </div>
 
